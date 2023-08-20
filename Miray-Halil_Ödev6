@@ -1,0 +1,4 @@
+1. SELECT AVG(rental_rate) FROM film
+2. SELECT Count() from film WHERE film like 'C%'
+3. SELECT max(length) from film where rental_rate = 0.99
+4. SELECT Count(DISTINCT replacement_cost) from film WHERE length > 150
