@@ -1,4 +1,4 @@
 1. SELECT * FROM country WHERE country like 'A%a'
 2. SELECT * FROM country WHERE country like '_____n'
 3.SELECT * FROM film where title Ilike '%t%' limit 4
-4. 
+4.SELECT * FROM film WHERE (length > 90 and rental_rate in (2.99)) and title Like 'C%'
