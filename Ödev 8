@@ -1,0 +1,111 @@
+Question 1
+CREATE TABLE employee ( id INT NOT NULL, name VARCHAR(50) NOT NULL, birthday DATE NOT NULL, email VARCHAR(100))
+
+Question 2
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+insert into employee (id, name, email, birthday) values (24, 'ayse', 'odev@gmail.com', '12.02.2000');
+
+Question 3
+UPDATE employee SET name = 'Atıf Ataman' WHERE id = 5;
+UPDATE employee SET birthday = '10.02.1999' WHERE id = 5;
+UPDATE employee SET email = 'odev@gmail.com' WHERE id = 5;
+UPDATE employee SET country= 'USA' WHERE id = 5;
+UPDATE employee SET name = 'Osman Ataman' WHERE id = 5;
+
+Question 4
+DELETE FROM employee WHERE id=5;
+DELETE FROM employee WHERE name= 'osman ataman';
+DELETE FROM employee WHERE id<5;
+DELETE FROM employee WHERE country= 'USA';
+DELETE FROM employee WHERE name= 'A%';
+
+
+
